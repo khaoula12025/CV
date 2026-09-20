@@ -20,6 +20,11 @@ LISI Research Laboratory
 - [Teaching](./Teaching/)
 
 ## Thesis & Master's Supervision
+→ [Full list](./Research_Masters/)
+
+- [PhD Co-supervision](./PhD_Supervision/)
+- [Professional Master's](./Professional_Masters/)
+
 
 - [PhD Co-supervision](./Inscription_26/)
 - [Research Master's](./Mastères/)
