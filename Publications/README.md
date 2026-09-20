@@ -6,5 +6,5 @@
 
   - **An Efficient Multimodal Variational Analysis of Cascaded Asymmetric Discontinuities**
   K. Allani
-  *9th IEEE International Conference on Electronics, Circuits and Systems (ICECS 2002)*
+  *9th IEEE International Conference on Electronics, Circuits and Systems (ICECS 2000) added to IEEE on August 2002*
   [View on IEEE Xplore](https://ieeexplore.ieee.org/document/911524)
