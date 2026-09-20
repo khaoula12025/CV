@@ -17,6 +17,35 @@ LISI Research Laboratory
 - [Conférences](./Conferences/)
 - [Projets de recherche](./Research/)
 - [Enseignement](./Teaching/)
+# CV
+Curriculum Vitae Dépôt de justifs
+# Dr. Khaoula Ben Ali
+
+Enseignante-Chercheuse – INSAT, Université de Carthage  
+LISI Research Laboratory
+
+## Curriculum Vitae
+
+[📄 Télécharger mon CV](./CV_Khaoula_Ben_Ali.pdf)
+
+## Documents justificatifs
+
+- [Diplômes](./Diplomes/)
+- [Certifications](./Certifications/)
+- [Publications](./Publications/)
+- [Conférences](./Conferences/)
+- [Projets de recherche](./Research/)
+- [Enseignement](./Teaching/)
+## Encadrements Thèses & Mastères
+ - [Coencadrement de thèse](./Inscription_26/)
+ - [Mastères de recherches](./Mastères/)
+ - [Mastères Professionnels](./Mastère_Professionnel/)
+### PFE
+- Étudiant 1 — Sujet...
+- Étudiant 2 — Sujet...
+## Encadrements PFA
+
+
 ## Encadrements PFE
 ### PFE
 - Étudiant 1 — Sujet...
