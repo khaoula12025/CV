@@ -41,6 +41,8 @@ LISI Research Laboratory
  - [Mastères de recherches](./Mastères/)
  - [Mastères Professionnels](./Mastère_Professionnel/)
 ### PFE
+
+- [Diplômes_PFE](./PFE/)
 - Étudiant 1 — Sujet...
 - Étudiant 2 — Sujet...
 ## Encadrements PFA
