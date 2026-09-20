@@ -17,6 +17,15 @@ LISI Research Laboratory
 - [Conférences](./Conferences/)
 - [Projets de recherche](./Research/)
 - [Enseignement](./Teaching/)
+## Encadrements PFE
+### PFE
+- Étudiant 1 — Sujet...
+- Étudiant 2 — Sujet...
+## Encadrements PFA
+
+### PFA
+- Étudiant 1 — Sujet...
+- Étudiant 2 — Sujet...
 
 ## Research Interests
 
