@@ -1,62 +1,37 @@
 # CV
-Curriculum Vitae Dépôt de justifs
+Curriculum Vitae – Supporting Documents
+
 # Dr. Khaoula Ben Ali
 
-Enseignante-Chercheuse – INSAT, Université de Carthage  
+Assistant Professor & Researcher – INSAT, University of Carthage
 LISI Research Laboratory
 
 ## Curriculum Vitae
 
-[📄 Télécharger mon CV](./CV_Khaoula_Ben_Ali.pdf)
+[📄 Download my CV](./CV_Khaoula_Ben_Ali.pdf)
 
-## Documents justificatifs
+## Supporting Documents
 
-- [Diplômes](./Diplomes/)
+- [Degrees](./Diplomes/)
 - [Certifications](./Certifications/)
 - [Publications](./Publications/)
-- [Conférences](./Conferences/)
-- [Projets de recherche](./Research/)
-- [Enseignement](./Teaching/)
-# CV
-Curriculum Vitae Dépôt de justifs
-# Dr. Khaoula Ben Ali
+- [Conferences](./Conferences/)
+- [Research Projects](./Research/)
+- [Teaching](./Teaching/)
 
-Enseignante-Chercheuse – INSAT, Université de Carthage  
-LISI Research Laboratory
+## Thesis & Master's Supervision
 
-## Curriculum Vitae
+- [PhD Co-supervision](./Inscription_26/)
+- [Research Master's](./Mastères/)
+- [Professional Master's](./Mastère_Professionnel/)
 
-[📄 Télécharger mon CV](./CV_Khaoula_Ben_Ali.pdf)
-
-## Documents justificatifs
-
-- [Diplômes](./Diplomes/)
-- [Certifications](./Certifications/)
-- [Publications](./Publications/)
-- [Conférences](./Conferences/)
-- [Projets de recherche](./Research/)
-- [Enseignement](./Teaching/)
-## Encadrements Thèses & Mastères
- - [Coencadrement de thèse](./Inscription_26/)
- - [Mastères de recherches](./Mastères/)
- - [Mastères Professionnels](./Mastère_Professionnel/)
 ### PFE
 
-- [Diplômes_PFE](./PFE/)
-- Étudiant 1 — Sujet...
-- Étudiant 2 — Sujet...
-## Encadrements PFA
+- [PFE Certificates](./PFE/)
 
-
-## Encadrements PFE
-### PFE
-- Étudiant 1 — Sujet...
-- Étudiant 2 — Sujet...
-## Encadrements PFA
+## PFA Supervision
 
 ### PFA
-- Étudiant 1 — Sujet...
-- Étudiant 2 — Sujet...
 
 ## Research Interests
 
