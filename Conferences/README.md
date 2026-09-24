@@ -19,5 +19,10 @@ This section presents conferences, workshops, training activities, and scientifi
 * Delivery of training sessions as a **Trainer**
 * Coordination with participants and academic stakeholders
 
-**Project repository:**
-[HITAF 2026 — GitHub](https://github.com/khaoula12025/HITAF2026)
+### Online Application
+
+[🌐 Visit the HITAF 2026 Application](https://hitaf-2026.vercel.app/)
+
+### Project Repository
+
+[💻 HITAF 2026 — GitHub Repository](https://github.com/khaoula12025/HITAF2026)
