@@ -1,15 +1,17 @@
 ## 🎓 Teaching
 
-### 📘 RLI — 2026–2027
-Course materials, practical sessions (TP), exercises, and projects for the RLI course.
+### 📘 RLI — Réseaux Locaux Industriels — 2026–2027
+Course materials, practical sessions (TP), exercises, and projects.
 
-🔗 [RLI 2026–2027 — Courses & TP](https://github.com/TON-USERNAME/RLI-2026-2027)
+- 📚 [Course Materials](./RLI/)
+- 🧪 [Practical Work (TP)](./RLI/TP/)
+  - [TP1](./RLI/TP/TP1/)
 
 ### 📊 Big Data & Data Analytics
-Course materials, practical sessions, Python notebooks, datasets, and projects.
+Course materials, practical sessions (TP), Python notebooks, datasets, and projects.
 
-🔗 [Big Data & Data Analytics — Courses & TP](https://github.com/TON-USERNAME/Big-Data-2026-2027)
-
+- 📚 [Course Materials](./Big_Data/)
+- 🧪 [Practical Work (TP)](./Big_Data/TP/)
 ### 🔬 ARAFET
 Research and project materials related to the ARAFET project.
 
