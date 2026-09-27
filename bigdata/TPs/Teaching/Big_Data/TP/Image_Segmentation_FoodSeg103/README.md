@@ -1,6 +1,12 @@
 # Big Data TP — FoodSeg103 Image Segmentation
 
 This practical work focuses on image segmentation using the **FoodSeg103** dataset and a U-Net architecture with a **ResNet101 encoder**.
+### 📦 Baseline & Augmented Files
+
+All baseline and augmented resources are available in the following Google Drive folder:
+
+**[Download / Access all project files](https://drive.google.com/drive/u/0/folders/1g1itMD3iaXQ4Ra2wvbgaYMx8l9Hy2Ix4)**
+
 
 ## 1. Baseline Model
 
