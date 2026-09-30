@@ -1,3 +1,43 @@
+Projets de fin d'études encadrés    (Version en Français)
+2014
+
+Étude et réalisation d'un système de commande et contrôle de la machine de bobinage torique (PFE — IIA)
+Ghozzi Hasna — Soutenu en septembre 2014
+
+Réalisation d'un système de commande de la vitesse de ventilateurs de convection d'un four à refusion (PFE — IIA)
+Horchani Mohamed Foued — Soutenu en septembre 2014
+
+Étude et conception d'un système de préparation de colle (PFE — IIA)
+Sghaeir Tarek — Soutenu en septembre 2014
+
+Mise en place de l'outil Six Sigma dans le processus de coupe (PFE — IIA)
+Ghoul Hamza — Soutenu en décembre 2014
+
+2011
+
+Automatisation d'un suppresseur pour le réglage du niveau d'eau dans un bassin (PFE — IIA)
+Behloul Issam — Soutenu en décembre 2011
+
+2008
+
+Caractérisation des limites d'un composant basé sur JMS-JGroups et étude d'une solution client-serveur de remplacement (PFE — spécialité RT)
+Hassayoun Houssem Eddine — Soutenu en février 2008
+Entreprise d'accueil : Eloquant S.A. (hébergement d'applications vocales et conseil en ingénierie) — Responsable à l'organisme d'accueil : Roulet Sylvain
+
+2007
+
+Étude et élaboration d'algorithmes de classification automatique de blogs (PFE — spécialité RT, collaboration Université Montpellier 2 – INSAT)
+Bayouth Ines — Soutenu en décembre 2007
+Accueil : LIRMM-CNRS (Laboratoire d'informatique, de robotique et de microélectronique de Montpellier) — Responsable à l'organisme d'accueil : Roche Mathieu
+Article publié : « Blog Classification: Adding Linguistic Knowledge to Improve the K-NN Algorithm » — IFIP, International Federation for Information Processing, vol. 288, 2008, pp. 68–77 (Bayouth Ines, Nicolas Béchet, Mathieu Roche)
+
+2006
+
+Caractérisation des pathologies hépatiques par analyse d'images ultrasonores (PFE — spécialité IIA, collaboration INSA Lyon – INSAT)
+Abdelkafi Selma — Soutenue en décembre 2006
+Accueil : laboratoire CREATIS-CNRS — Responsable à l'organisme d'accueil : Basset Olivier
+
+
 # Supervised Final-Year Projects
 
 ## 2014
