@@ -1,0 +1,41 @@
+# Réseaux de capteurs sans fil — Wireless Sensor Networks
+
+**Dr Khaoula Ben Ali** · Année universitaire / Academic year **2026–2027** · 4ᵉ année / 4th year
+
+---
+
+## 📘 Chapitre 1 : Concepts de base / Chapter 1: Basic Concepts
+
+| Format | Lien / Link |
+|---|---|
+| 📄 PDF (téléchargeable / downloadable) | [Réseaux de capteurs sans fil.pdf](./R%C3%A9seaux%20de%20capteurs%20sans%20fil.pdf) |
+| 🌐 HTML (version web / web version) | [Réseaux de capteurs sans fil.html](./R%C3%A9seaux%20de%20capteurs%20sans%20fil.html) |
+
+> Pour ouvrir la version HTML : téléchargez le fichier (bouton **Download raw file**), puis ouvrez-le dans votre navigateur.
+> To open the HTML version: download the file (**Download raw file** button), then open it in your browser.
+
+### 🇫🇷 Description
+
+Ce chapitre présente les notions fondamentales des réseaux de capteurs sans fil (RCSF). Il définit le capteur, le capteur intelligent et le réseau de capteurs, puis décrit le trajet des données, des nœuds capteurs jusqu'à l'utilisateur final. Il couvre aussi :
+
+- l'architecture matérielle d'un nœud (captage, traitement, communication, énergie) ;
+- l'architecture logicielle (pile protocolaire à 5 couches et 3 plans de gestion) ;
+- les domaines d'applications (militaire, médical, environnement, domotique, industrie…) ;
+- la classification des RCSF selon 4 critères ;
+- les contraintes de conception, surtout l'énergie, et la comparaison avec les réseaux ad hoc.
+
+### 🇬🇧 Description
+
+This chapter introduces the core concepts of wireless sensor networks (WSNs). It defines the sensor, the smart sensor and the sensor network, then describes how data travels from the sensor nodes to the end user. It also covers:
+
+- the hardware architecture of a node (sensing, processing, communication, power);
+- the software architecture (5-layer protocol stack and 3 management planes);
+- application areas (military, medical, environmental, home automation, industry…);
+- the classification of WSNs by 4 criteria;
+- design constraints, above all energy, and a comparison with ad hoc networks.
+
+---
+
+## 🧪 Travaux pratiques / Labs
+
+- [TP1](./TP/TP1)
