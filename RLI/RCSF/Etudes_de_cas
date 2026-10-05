@@ -1,1 +1,100 @@
+# 📘 Séance du lundi 5 octobre — Études de cas RCSF
 
+## Introduction
+
+Les **quatre études de cas** présentées dans ce document sont directement inspirées des discussions et des travaux de groupe réalisés lors de la séance précédente.
+
+À partir de vos propositions et des échanges en classe, j’ai synthétisé et structuré les principales idées afin de montrer comment analyser un **Réseau de Capteurs Sans Fil (RCSF)** dans une application réelle.
+
+L’objectif est notamment de savoir :
+
+* **Identifier** les différents types de nœuds d’un RCSF dans une application réelle :
+
+  * nœud classique ;
+  * nœud agrégateur ;
+  * nœud *sink* ;
+  * passerelle (*gateway*) ;
+  * nœud intelligent.
+
+* **Classer** les nœuds selon :
+
+  * leur fonction ;
+  * leurs ressources ;
+  * leur mobilité ;
+  * leur niveau d’intelligence et de traitement.
+
+* **Choisir une topologie adaptée** :
+
+  * étoile ;
+  * arbre ;
+  * cluster ;
+  * mesh ;
+
+  et comprendre comment la topologie influence le rôle et l'organisation des différents nœuds.
+
+* **Justifier par le calcul la nécessité du traitement local**, notamment à partir de l’exemple d’un moteur équipé de **8 capteurs et d’une carte STM32**.
+
+* **Choisir une passerelle et une technologie radio** adaptées aux contraintes de l’application.
+
+* **Évaluer la scalabilité** d’un réseau et identifier la contrainte dominante pour chaque application.
+
+* **Appliquer une même grille d’analyse** à tout nouveau cas d’étude.
+
+---
+
+## 💡 Une synthèse construite à partir de vos idées
+
+Ce document reprend **beaucoup de vos propres propositions** issues des travaux de groupe.
+
+Certaines idées ont été :
+
+* complétées ;
+* précisées ;
+* reformulées ;
+* ou corrigées lorsque cela était nécessaire.
+
+C’est précisément en confrontant les différentes propositions et en discutant leurs avantages et leurs limites que nous avons pu construire cette synthèse.
+
+> **Message essentiel :**
+> Un **nœud intelligent** n'est pas défini par sa position dans la topologie du réseau.
+> Il est défini par sa **capacité de traitement, d’analyse et de décision**.
+
+### 🔧 Exemple clé : le moteur équipé d'une STM32
+
+Dans l’exemple étudié, la **carte STM32** joue plusieurs rôles simultanément :
+
+* elle collecte les données provenant des capteurs ;
+* elle peut effectuer une agrégation locale ;
+* elle réalise un traitement des données ;
+* elle peut prendre certaines décisions localement ;
+* elle réduit potentiellement le volume de données transmis vers le réseau.
+
+La STM32 constitue ainsi un excellent exemple de **nœud à la fois agrégateur et intelligent**.
+
+---
+
+## 📖 Comment utiliser ce document ?
+
+Pour tirer le meilleur profit de cette synthèse, il est recommandé de suivre l’ordre suivant :
+
+### 1️⃣ Rappels et grille d’analyse
+
+Commencez par la **section 1** afin de revoir les concepts fondamentaux et la grille permettant d’analyser un RCSF.
+
+### 2️⃣ Études de cas
+
+Étudiez ensuite les **quatre études de cas** et essayez d’identifier, pour chaque application :
+
+* les différents types de nœuds ;
+* leurs rôles ;
+* leurs ressources ;
+* leur mobilité ;
+* leur niveau d’intelligence ;
+* la topologie utilisée ;
+* la technologie de communication ;
+* la passerelle ;
+* les contraintes de scalabilité.
+
+### 3️⃣ Tableau de synthèse
+
+Utilisez le **tableau de synthèse de la section 6** pour comparer les quatre applic
